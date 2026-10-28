@@ -79,4 +79,4 @@ También se puede abrir como proyecto Maven en NetBeans, IntelliJ o Eclipse y co
 
 ## 👤 Autor
 
-**Ignacio Cantando Flego** · [LinkedIn](https://www.linkedin.com/in/ignaciocantandoflego/) · [GitHub](https://github.com/ignacantando)
+**Ignacio Cantando Flego** · [LinkedIn](https://www.linkedin.com/in/ignacio-cantando-flego-8ba84a127/) · [GitHub](https://github.com/ignacantando)
